@@ -9,3 +9,4 @@
 | 명제와 집합  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/MME2025/blob/main/Mathematical_logic.ipynb) | 
 | 수열과 차분방정식 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/MME2025/blob/main/Sequence_DifferenceEq.ipynb) | 
 | 미분방정식 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/MME2025/blob/main/differential_eq.ipynb) | 
+| 조합론과 확률 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/MME2025/blob/main/Combinatorics_Probs.ipynb) |
