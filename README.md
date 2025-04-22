@@ -11,3 +11,4 @@
 | 미분방정식 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/MME2025/blob/main/differential_eq.ipynb) | 
 | 조합론과 확률 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/MME2025/blob/main/Combinatorics_Probs.ipynb) |
 | 벡터와 행렬 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/MME2025/blob/main/Vectors%26Matrices.ipynb) |
+| 부록. Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/MME2025/blob/main/부록_optimization.ipynb) |
